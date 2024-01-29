@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Gulchin.;I'm+software+developer+and+instructor.)](https://git.io/typing-svg)
 ---
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aislingsinclair.com%2F&psig=AOvVaw14K8Ccc3OZYIFpp8DxJJ7T&ust=1706656479910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj194Pdg4QDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362400">
 
 
 - 👨‍💻 All of my projects are available at https://github.com/GulchinTaghizade?tab=repositories
