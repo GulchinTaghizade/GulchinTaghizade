@@ -30,5 +30,23 @@
 
 ---
 
+:chart_with_upwards_trend: Github stats 
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GulchinTaghizade&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="GulchinTaghizade" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GulchinTaghizade&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="GulchinTaghizade" /></p>
+
+
+---
+
+![snake gif](https://github.com/abdulayef1/abdulayef1/blob/output/github-contribution-grid-snake.svg)
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gulchinnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulchinnl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gulchin-taghizade-38b8171a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulchin-taghizade-38b817a6" height="30" width="40" /></a>
+<a href="https://instagram.com/gulchinnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulchinnl" height="30" width="40" /></a>
+</p>
+
 
 
